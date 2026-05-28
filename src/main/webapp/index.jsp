@@ -46,7 +46,7 @@
                 <a href="ProductoControlador?accion=listar" class="${param.categoria == null ? 'active' : ''}">Todos</a>
                 <a href="ProductoControlador?accion=filtrar&categoria=Motores" class="${param.categoria == 'Motores' ? 'active' : ''}">Motores</a>
                 <a href="ProductoControlador?accion=filtrar&categoria=Filtros" class="${param.categoria == 'Filtros' ? 'active' : ''}">Filtros</a>
-                <a href="ProductoControlador?accion=filtrar&categoria=Iluminaci%C3%B3n" class="${param.categoria == 'Iluminación' ? 'active' : ''}">Iluminación</a>
+               <a href="ProductoControlador?accion=filtrar&categoria=Iluminacion" class="${param.categoria == 'Iluminacion' ? 'active' : ''}">Iluminación</a>
                 <a href="ProductoControlador?accion=filtrar&categoria=Quimicos">Químicos</a>
             </div>
         </div>
