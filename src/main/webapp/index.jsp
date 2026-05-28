@@ -50,12 +50,13 @@
 </head>
 <body>
 
- <header style="display: flex; align-items: center; gap: 20px;">
-    <img src="https://i.postimg.cc/Lsk5TcNv/logo.jpg" alt="Logo Acqua di Mare" style="width: 80px; height: 80px; border-radius: 50%; border: 3px solid rgba(255,255,255,0.3);">
-    
-    <div>
-        <h1 style="margin: 0; font-size: 28px;">🌊 Acqua di Mare</h1>
-        <p style="margin: 0; opacity: 0.9; font-size: 14px;">Equipamientos, Motores y Productos para tu Piscina o Jacuzzi</p>
+<header>
+    <div style="display: flex; align-items: center; gap: 20px;">
+        <img src="https://i.postimg.cc/Lsk5TcNv/logo.jpg" alt="Logo Acqua di Mare" style="width: 80px; height: 80px; border-radius: 50%; border: 3px solid rgba(255,255,255,0.3);">
+        <div>
+            <h1>🌊 Acqua di Mare</h1>
+            <p>Equipamientos, Motores y Productos para tu Piscina o Jacuzzi</p>
+        </div>
     </div>
 </header>
 
